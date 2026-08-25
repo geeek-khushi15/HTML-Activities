@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Line Break in HTML</title>
+</head>
+<body>
+
+    <h2>HTML Line Break Activity</h2>
+    
+    <p>This is the first sentence.<br>
+    This is the second sentence, which starts on a new line because of the line break tag.</p>
+
+    <p>Address Example:<br>
+    123 Coding Lane<br>
+    Tech City, Web 404</p>
+
+</body>
+</html>
