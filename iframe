@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Iframe Activity</title>
+</head>
+<body>
+
+    <h2>Embedding a Web Page using an Iframe</h2>
+    
+    <p>The iframe below displays an example website right here on this page!</p>
+
+    <!-- The src attribute points to the website you want to embed. -->
+    <!-- Width and height control the size of the frame. -->
+    <!-- The title attribute helps with accessibility. -->
+    <iframe src="https://www.example.com" width="600" height="400" title="Example Website">
+        Your browser does not support iframes.
+    </iframe>
+
+</body>
+</html>
