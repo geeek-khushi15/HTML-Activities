@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Drop-Down List Activity</title>
+</head>
+<body>
+
+    <h2>Select Your Favorite Subject</h2>
+    
+    <form action="/submit">
+        <label for="subjects">Choose a subject:</label><br>
+        
+        <!-- The select tag creates the drop-down list -->
+        <select id="subjects" name="subjects">
+            <!-- The option tags define the available choices -->
+            <option value="math">Mathematics</option>
+            <option value="science">Science</option>
+            <option value="history">History</option>
+            <option value="coding" selected>Coding</option>
+        </select>
+        
+        <br><br>
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+</html>
