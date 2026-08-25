@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Lists Activity</title>
+</head>
+<body>
+
+    <h2>My Favorite Fruits (Unordered List)</h2>
+    <!-- Unordered lists use the <ul> tag, and items use the <li> tag -->
+    <ul>
+        <li>Apple</li>
+        <li>Mango</li>
+        <li>Banana</li>
+    </ul>
+
+    <h2>Steps to Make Tea (Ordered List)</h2>
+    <!-- Ordered lists use the <ol> tag, and items use the <li> tag -->
+    <ol>
+        <li>Boil water in a pan.</li>
+        <li>Add tea leaves and sugar.</li>
+        <li>Add milk and bring to a boil.</li>
+        <li>Serve hot!</li>
+    </ol>
+
+</body>
+</html>
