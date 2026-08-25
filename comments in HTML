@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Comments in HTML</title>
+</head>
+<body>
+
+    <!-- This is a comment explaining the code below -->
+    <h1>HTML Comments Activity</h1>
+    
+    <p>This text will be visible on the web page.</p>
+
+    <!-- <p>This text is commented out, so it will NOT be visible on the page.</p> -->
+
+</body>
+</html>
