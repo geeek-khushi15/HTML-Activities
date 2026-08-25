@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Table Activity</title>
+</head>
+<body>
+
+    <h2>Monthly Savings Table</h2>
+    
+    <!-- The border attribute adds a simple outline so you can see the table grid -->
+    <table border="1">
+        <!-- The first row is usually for headers -->
+        <tr>
+            <th>Month</th>
+            <th>Amount Saved</th>
+        </tr>
+        <!-- Subsequent rows hold the data -->
+        <tr>
+            <td>January</td>
+            <td>$50</td>
+        </tr>
+        <tr>
+            <td>February</td>
+            <td>$80</td>
+        </tr>
+        <tr>
+            <td>March</td>
+            <td>$120</td>
+        </tr>
+    </table>
+
+</body>
+</html>
