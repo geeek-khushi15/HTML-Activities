@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Text Formatting</title>
+</head>
+<body>
+
+    <h2>HTML Formatting Activity</h2>
+    
+    <p><b>This text is bold.</b></p>
+    <p><strong>This text is important (strong).</strong></p>
+    
+    <p><i>This text is italic.</i></p>
+    <p><em>This text is emphasized.</em></p>
+    
+    <p><u>This text is underlined.</u></p>
+    
+    <p><mark>This text is highlighted (marked).</mark></p>
+    
+    <p>This is some <del>deleted text</del> and some <ins>inserted text</ins>.</p>
+    
+    <p>This is a <sub>subscript</sub> and this is a <sup>superscript</sup>.</p>
+
+</body>
+</html>
