@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Audio and Video Activity</title>
+</head>
+<body>
+
+    <h2>Adding Audio</h2>
+    <p>Listen to this sample audio:</p>
+    <!-- The controls attribute adds play, pause, and volume controls -->
+    <audio controls>
+        <source src="https://www.w3schools.com/html/horse.ogg" type="audio/ogg">
+        <source src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+
+    <h2>Adding Video</h2>
+    <p>Watch this sample video:</p>
+    <!-- The width and height attributes set the video size -->
+    <video width="320" height="240" controls>
+        <source src="https://www.w3schools.com/html/movie.mp4" type="video/mp4">
+        <source src="https://www.w3schools.com/html/movie.ogg" type="video/ogg">
+        Your browser does not support the video tag.
+    </video>
+
+</body>
+</html>
