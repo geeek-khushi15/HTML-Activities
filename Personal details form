@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Details Form</title>
+</head>
+<body>
+
+    <h2>Enter Your Personal Details</h2>
+    
+    <!-- The form tag wraps all the input fields -->
+    <form action="/submit" method="post">
+        
+        <!-- Text Input for Name -->
+        <label for="fullName">Full Name:</label><br>
+        <input type="text" id="fullName" name="fullName" placeholder="John Doe" required><br><br>
+
+        <!-- Email Input -->
+        <label for="email">Email Address:</label><br>
+        <input type="email" id="email" name="email" placeholder="john@example.com" required><br><br>
+
+        <!-- Number Input for Age -->
+        <label for="age">Age:</label><br>
+        <input type="number" id="age" name="age" min="1" max="100"><br><br>
+
+        <!-- Radio Buttons for Gender -->
+        <label>Gender:</label><br>
+        <input type="radio" id="male" name="gender" value="Male">
+        <label for="male">Male</label><br>
+        <input type="radio" id="female" name="gender" value="Female">
+        <label for="female">Female</label><br>
+        <input type="radio" id="other" name="gender" value="Other">
+        <label for="other">Other</label><br><br>
+
+        <!-- Submit Button -->
+        <input type="submit" value="Submit Details">
+        
+    </form>
+
+</body>
+</html>
