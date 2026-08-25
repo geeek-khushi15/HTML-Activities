@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Image Activity</title>
+</head>
+<body>
+
+    <h2>Displaying an Image</h2>
+    
+    <p>Here is a cute cat picture to demonstrate the image tag:</p>
+
+    <!-- The img tag does not have a closing tag. 
+         'src' points to the image link, and 'alt' provides alternate text. -->
+    <img src="https://images.unsplash.com/photo-1543852786-1cf6624b9987?w=400&auto=format&fit=crop" alt="A cute cat looking at the camera" width="300">
+
+</body>
+</html>
