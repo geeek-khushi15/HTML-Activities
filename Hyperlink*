@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hyperlink Activity</title>
+</head>
+<body>
+
+    <h2>HTML Hyperlinks</h2>
+    
+    <p>Hyperlinks allow users to click and navigate from one page to another.</p>
+    
+    <!-- This is a standard link to a website -->
+    <p>Click this link to visit <a href="https://www.google.com" target="_blank">Google</a>.</p>
+
+    <!-- This link opens your GitHub profile -->
+    <p>Check out my coding projects on my <a href="https://github.com/geeek-khushi15" target="_blank">GitHub Profile</a>!</p>
+
+</body>
+</html>
