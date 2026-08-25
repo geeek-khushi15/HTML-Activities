@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Group Form Fields Activity</title>
+</head>
+<body>
+
+    <h2>User Registration Form</h2>
+    
+    <form action="/submit">
+        <!-- The fieldset tag groups related form elements -->
+        <fieldset>
+            <!-- The legend tag defines a caption for the fieldset -->
+            <legend>Personal Information:</legend>
+            <label for="fname">First Name:</label><br>
+            <input type="text" id="fname" name="fname"><br><br>
+            
+            <label for="lname">Last Name:</label><br>
+            <input type="text" id="lname" name="lname"><br><br>
+            
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email">
+        </fieldset>
+        
+        <br>
+        
+        <fieldset>
+            <legend>Account Details:</legend>
+            <label for="username">Username:</label><br>
+            <input type="text" id="username" name="username"><br><br>
+            
+            <label for="pwd">Password:</label><br>
+            <input type="password" id="pwd" name="pwd">
+        </fieldset>
+
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+</html>
