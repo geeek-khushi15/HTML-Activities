@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Heading and Paragraph Activity</title>
+</head>
+<body>
+
+    <h1>This is a Main Heading (H1)</h1>
+    <p>This is a paragraph. Paragraphs are used to write regular text on a webpage. The H1 tag is usually used for the main title.</p>
+
+    <h2>This is a Subheading (H2)</h2>
+    <p>This is another paragraph under the H2 heading. Headings help organize your content into sections.</p>
+    
+    <h3>This is a Smaller Heading (H3)</h3>
+    <p>You can use tags all the way down to H6 for smaller, less important headings. Notice how the text size gets smaller with each heading level!</p>
+
+</body>
+</html>
