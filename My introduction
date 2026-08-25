@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Introduction</title>
+</head>
+<body>
+
+    <h1>Welcome to My Profile!</h1>
+    
+    <h2>About Me</h2>
+    <p>Hi, my name is Khushi! I am currently learning about web development and how to build web pages using HTML.</p>
+    
+    <h3>My Hobbies and Interests</h3>
+    <ul>
+        <li>Coding and learning new tech</li>
+        <li>Working on creative projects</li>
+        <li>Reading and exploring new topics</li>
+    </ul>
+
+    <p>Thank you for visiting my page!</p>
+
+</body>
+</html>
